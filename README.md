@@ -12,7 +12,7 @@ RDF（Turtle形式）としてLOD化したものです。
 - 文字コード：UTF-8
 
 ## ファイル説明
-- pref_population.ttl  
+- pref_population_2020.ttl  
   都道府県ごとの人口データをRDFで記述したファイル
 
 ## 語彙・名前空間
