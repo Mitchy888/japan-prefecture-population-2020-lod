@@ -21,7 +21,7 @@ RDF（Turtle形式）としてLOD化したものです。
 - xsd: http://www.w3.org/2001/XMLSchema#
 
 ## 作成者
-- 作成者：清水 道夫
+- 作成者：Mitchy Samurai
 - 作成日：2026年1月
 
 ## 出典（元データ）
