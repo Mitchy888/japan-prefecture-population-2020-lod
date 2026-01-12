@@ -1,0 +1,191 @@
+@prefix ex: <http://example.org/pref/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:pref_01 rdf:type ex:Prefecture ;
+    ex:label "北海道" ;
+    ex:populationTotal2020 "5224614"^^xsd:integer .
+
+ex:pref_02 rdf:type ex:Prefecture ;
+    ex:label "青森県" ;
+    ex:populationTotal2020 "1237984"^^xsd:integer .
+
+ex:pref_03 rdf:type ex:Prefecture ;
+    ex:label "岩手県" ;
+    ex:populationTotal2020 "1210534"^^xsd:integer .
+
+ex:pref_04 rdf:type ex:Prefecture ;
+    ex:label "宮城県" ;
+    ex:populationTotal2020 "2301996"^^xsd:integer .
+
+ex:pref_05 rdf:type ex:Prefecture ;
+    ex:label "秋田県" ;
+    ex:populationTotal2020 "959502"^^xsd:integer .
+
+ex:pref_06 rdf:type ex:Prefecture ;
+    ex:label "山形県" ;
+    ex:populationTotal2020 "1068027"^^xsd:integer .
+
+ex:pref_07 rdf:type ex:Prefecture ;
+    ex:label "福島県" ;
+    ex:populationTotal2020 "1833152"^^xsd:integer .
+
+ex:pref_08 rdf:type ex:Prefecture ;
+    ex:label "茨城県" ;
+    ex:populationTotal2020 "2867009"^^xsd:integer .
+
+ex:pref_09 rdf:type ex:Prefecture ;
+    ex:label "栃木県" ;
+    ex:populationTotal2020 "1933146"^^xsd:integer .
+
+ex:pref_10 rdf:type ex:Prefecture ;
+    ex:label "群馬県" ;
+    ex:populationTotal2020 "1939110"^^xsd:integer .
+
+ex:pref_11 rdf:type ex:Prefecture ;
+    ex:label "埼玉県" ;
+    ex:populationTotal2020 "7344765"^^xsd:integer .
+
+ex:pref_12 rdf:type ex:Prefecture ;
+    ex:label "千葉県" ;
+    ex:populationTotal2020 "6284480"^^xsd:integer .
+
+ex:pref_13 rdf:type ex:Prefecture ;
+    ex:label "東京都" ;
+    ex:populationTotal2020 "14047594"^^xsd:integer .
+
+ex:pref_14 rdf:type ex:Prefecture ;
+    ex:label "神奈川県" ;
+    ex:populationTotal2020 "9237337"^^xsd:integer .
+
+ex:pref_15 rdf:type ex:Prefecture ;
+    ex:label "新潟県" ;
+    ex:populationTotal2020 "2201272"^^xsd:integer .
+
+ex:pref_16 rdf:type ex:Prefecture ;
+    ex:label "富山県" ;
+    ex:populationTotal2020 "1034814"^^xsd:integer .
+
+ex:pref_17 rdf:type ex:Prefecture ;
+    ex:label "石川県" ;
+    ex:populationTotal2020 "1132526"^^xsd:integer .
+
+ex:pref_18 rdf:type ex:Prefecture ;
+    ex:label "福井県" ;
+    ex:populationTotal2020 "766863"^^xsd:integer .
+
+ex:pref_19 rdf:type ex:Prefecture ;
+    ex:label "山梨県" ;
+    ex:populationTotal2020 "809974"^^xsd:integer .
+
+ex:pref_20 rdf:type ex:Prefecture ;
+    ex:label "長野県" ;
+    ex:populationTotal2020 "2048011"^^xsd:integer .
+
+ex:pref_21 rdf:type ex:Prefecture ;
+    ex:label "岐阜県" ;
+    ex:populationTotal2020 "1978742"^^xsd:integer .
+
+ex:pref_22 rdf:type ex:Prefecture ;
+    ex:label "静岡県" ;
+    ex:populationTotal2020 "3633202"^^xsd:integer .
+
+ex:pref_23 rdf:type ex:Prefecture ;
+    ex:label "愛知県" ;
+    ex:populationTotal2020 "7542415"^^xsd:integer .
+
+ex:pref_24 rdf:type ex:Prefecture ;
+    ex:label "三重県" ;
+    ex:populationTotal2020 "1770254"^^xsd:integer .
+
+ex:pref_25 rdf:type ex:Prefecture ;
+    ex:label "滋賀県" ;
+    ex:populationTotal2020 "1413610"^^xsd:integer .
+
+ex:pref_26 rdf:type ex:Prefecture ;
+    ex:label "京都府" ;
+    ex:populationTotal2020 "2578087"^^xsd:integer .
+
+ex:pref_27 rdf:type ex:Prefecture ;
+    ex:label "大阪府" ;
+    ex:populationTotal2020 "8837685"^^xsd:integer .
+
+ex:pref_28 rdf:type ex:Prefecture ;
+    ex:label "兵庫県" ;
+    ex:populationTotal2020 "5465002"^^xsd:integer .
+
+ex:pref_29 rdf:type ex:Prefecture ;
+    ex:label "奈良県" ;
+    ex:populationTotal2020 "1324473"^^xsd:integer .
+
+ex:pref_30 rdf:type ex:Prefecture ;
+    ex:label "和歌山県" ;
+    ex:populationTotal2020 "922584"^^xsd:integer .
+
+ex:pref_31 rdf:type ex:Prefecture ;
+    ex:label "鳥取県" ;
+    ex:populationTotal2020 "553407"^^xsd:integer .
+
+ex:pref_32 rdf:type ex:Prefecture ;
+    ex:label "島根県" ;
+    ex:populationTotal2020 "671126"^^xsd:integer .
+
+ex:pref_33 rdf:type ex:Prefecture ;
+    ex:label "岡山県" ;
+    ex:populationTotal2020 "1888432"^^xsd:integer .
+
+ex:pref_34 rdf:type ex:Prefecture ;
+    ex:label "広島県" ;
+    ex:populationTotal2020 "2799702"^^xsd:integer .
+
+ex:pref_35 rdf:type ex:Prefecture ;
+    ex:label "山口県" ;
+    ex:populationTotal2020 "1342059"^^xsd:integer .
+
+ex:pref_36 rdf:type ex:Prefecture ;
+    ex:label "徳島県" ;
+    ex:populationTotal2020 "719559"^^xsd:integer .
+
+ex:pref_37 rdf:type ex:Prefecture ;
+    ex:label "香川県" ;
+    ex:populationTotal2020 "950244"^^xsd:integer .
+
+ex:pref_38 rdf:type ex:Prefecture ;
+    ex:label "愛媛県" ;
+    ex:populationTotal2020 "1334841"^^xsd:integer .
+
+ex:pref_39 rdf:type ex:Prefecture ;
+    ex:label "高知県" ;
+    ex:populationTotal2020 "691527"^^xsd:integer .
+
+ex:pref_40 rdf:type ex:Prefecture ;
+    ex:label "福岡県" ;
+    ex:populationTotal2020 "5135214"^^xsd:integer .
+
+ex:pref_41 rdf:type ex:Prefecture ;
+    ex:label "佐賀県" ;
+    ex:populationTotal2020 "811442"^^xsd:integer .
+
+ex:pref_42 rdf:type ex:Prefecture ;
+    ex:label "長崎県" ;
+    ex:populationTotal2020 "1312317"^^xsd:integer .
+
+ex:pref_43 rdf:type ex:Prefecture ;
+    ex:label "熊本県" ;
+    ex:populationTotal2020 "1738301"^^xsd:integer .
+
+ex:pref_44 rdf:type ex:Prefecture ;
+    ex:label "大分県" ;
+    ex:populationTotal2020 "1123852"^^xsd:integer .
+
+ex:pref_45 rdf:type ex:Prefecture ;
+    ex:label "宮崎県" ;
+    ex:populationTotal2020 "1069576"^^xsd:integer .
+
+ex:pref_46 rdf:type ex:Prefecture ;
+    ex:label "鹿児島県" ;
+    ex:populationTotal2020 "1588256"^^xsd:integer .
+
+ex:pref_47 rdf:type ex:Prefecture ;
+    ex:label "沖縄県" ;
+    ex:populationTotal2020 "1467480"^^xsd:integer .
